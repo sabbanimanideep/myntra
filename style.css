@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    font: 'San Francisco', Helvetica, Arial, san-serif;
+    color: black
+}
+.myntra {
+    background-color:white;
+    height: 80px;
+    color: white;
+    align-items: center;
+    padding-top: 20px;
+    display: flex;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.155);
+    
+}
+
+.myntra-logo {
+    height: 80px;
+    width: 53px;
+    margin: 0px 20px 0px 10px;
+    align-items: center;
+    display: flex;
+
+}
+.logo {
+    background-image: url(myntra-1200x900.png);
+    background-size: cover;
+    height: 36px;
+    width: 100%;
+    font-size: 1rem;
+}
+.man {
+    height: 80px;
+    width: 53px;
+    padding: 30px 20px 0px 0px;
+    font-size: 12px;
+    font-weight: 700;
+    display: flex;
+
+}
+.myntra a:hover {
+    color: pink;
+}
+.women {
+    padding: 0px 20px 0px 30px ;
+
+}
+.kids {
+    padding: 0px 20px 0px 20px ;
+}
+.myntra a:hover {
+    color: pink;
+}
+
+.home {
+    padding: 0px 20px 0px 20px ;
+}
+.BEAUTY{
+    padding: 0px 20px 0px 20px ;
+}
+.STUDIO{
+    padding: 0px 100px 0px 20px ;
+}
+.input i{
+    background-color:#f5f5f6;
+    width: 41px;
+    height: 30px;
+    padding-top: 7px;
+    padding-left: 10px;
+    display: flex;
+    border: none;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5px;
+}
+ #input {
+    transform: translate(40px,-30px);
+    border: none;
+    background-color: #f5f5f6;
+    height: 30px;
+    width: 400px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+ }
+ .search {
+    padding: 0px 0px 20px 0px ;
+ }
+
+.account i{
+    transform: translate(1034px,45px);
+}
+.account p {
+    transform: translate(1020px,46px);
+    font-size: 12px;
+    font-weight: 700;
+    font: 'San Francisco', Helvetica, Arial, san-serif;
+}
+.wishlist i{
+    transform: translate(1105px,4px);
+}
+.wishlist p {
+    transform: translate(1090px,5px);
+}
+.bag i{
+    transform: translate(1170px,-38px);
+}
+.bag p{
+    transform: translate(1165px,-37px);
+}
+
+.poster {
+    background-image: url(poster.jpeg);
+    background-size: cover;
+    height: 500px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.poster2 {
+    background-image: url(7AB6E537-54E8-4AA4-9713-178799E0D91A_1_201_a.jpeg);
+    background-size: cover;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    flex-grow: 1;
+
+}
+.poster3 {
+    background-image: url(D3744A4F-589A-4D7B-BCDA-D50F9FDA37F4_1_201_a.jpeg);
+    background-size: cover;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.poster4 {
+    background-image: url(A5AD6A54-26BD-48F6-B360-EF6A215002F3_1_201_a.jpeg);
+    background-size: cover;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
